@@ -1,0 +1,202 @@
+ChplVdebug: ver 1.2 nodes 4 nid 0 tid 1 seq 38137837122.000 1496252137.845292 0.216000 0.092000 
+CHPL_HOME: /cluster/home/phil/chapel
+DIR: /cluster/home/tuora/a6/chplvis
+Tablesize: 69
+fname: 0 <unknown>
+fname: 1 <internal>
+fname: 2 $CHPL_HOME/modules/internal/ChapelBase.chpl
+fname: 3 $CHPL_HOME/modules/internal/ChapelStandard.chpl
+fname: 4 $CHPL_HOME/modules/internal/PrintModuleInitOrder.chpl
+fname: 5 $CHPL_HOME/modules/internal/startInitCommDiags.chpl
+fname: 6 $CHPL_HOME/modules/internal/CPtr.chpl
+fname: 7 $CHPL_HOME/modules/internal/CString.chpl
+fname: 8 $CHPL_HOME/modules/internal/String.chpl
+fname: 9 $CHPL_HOME/modules/internal/ChapelDebugPrint.chpl
+fname: 10 $CHPL_HOME/modules/internal/ChapelEnv.chpl
+fname: 11 $CHPL_HOME/modules/internal/MemConsistency.chpl
+fname: 12 $CHPL_HOME/modules/internal/Atomics.chpl
+fname: 13 $CHPL_HOME/modules/internal/NetworkAtomics.chpl
+fname: 14 $CHPL_HOME/modules/internal/NetworkAtomicTypes.chpl
+fname: 15 $CHPL_HOME/modules/internal/AtomicsCommon.chpl
+fname: 16 $CHPL_HOME/modules/internal/ChapelIteratorSupport.chpl
+fname: 17 $CHPL_HOME/modules/internal/ChapelThreads.chpl
+fname: 18 $CHPL_HOME/modules/internal/ChapelThreadsInternal.chpl
+fname: 19 $CHPL_HOME/modules/internal/ChapelTasksInternal.chpl
+fname: 20 $CHPL_HOME/modules/internal/ChapelTuple.chpl
+fname: 21 $CHPL_HOME/modules/internal/ChapelRange.chpl
+fname: 22 $CHPL_HOME/modules/internal/ChapelReduce.chpl
+fname: 23 $CHPL_HOME/modules/internal/ChapelSyncvar.chpl
+fname: 24 $CHPL_HOME/modules/internal/localeModels/flat/LocaleModel.chpl
+fname: 25 $CHPL_HOME/modules/internal/ChapelLocale.chpl
+fname: 26 $CHPL_HOME/modules/internal/DefaultRectangular.chpl
+fname: 27 $CHPL_HOME/modules/internal/LocalesArray.chpl
+fname: 28 $CHPL_HOME/modules/internal/ChapelArray.chpl
+fname: 29 $CHPL_HOME/modules/internal/ChapelDistribution.chpl
+fname: 30 $CHPL_HOME/modules/internal/ChapelIO.chpl
+fname: 31 $CHPL_HOME/modules/internal/LocaleTree.chpl
+fname: 32 $CHPL_HOME/modules/internal/DefaultAssociative.chpl
+fname: 33 $CHPL_HOME/modules/internal/DefaultSparse.chpl
+fname: 34 $CHPL_HOME/modules/internal/DefaultOpaque.chpl
+fname: 35 $CHPL_HOME/modules/internal/ChapelTaskID.chpl
+fname: 36 $CHPL_HOME/modules/internal/tasktable/off/ChapelTaskTable.chpl
+fname: 37 $CHPL_HOME/modules/internal/MemTracking.chpl
+fname: 38 $CHPL_HOME/modules/internal/ChapelUtil.chpl
+fname: 39 $CHPL_HOME/modules/internal/ChapelError.chpl
+fname: 40 $CHPL_HOME/modules/internal/ChapelDynDispHack.chpl
+fname: 41 $CHPL_HOME/modules/internal/stopInitCommDiags.chpl
+fname: 42 $CHPL_HOME/modules/internal/StringCasts.chpl
+fname: 43 $CHPL_HOME/modules/internal/LocaleModelHelpFlat.chpl
+fname: 44 $CHPL_HOME/modules/internal/LocaleModelHelpMem.chpl
+fname: 45 $CHPL_HOME/modules/internal/ArrayViewSlice.chpl
+fname: 46 $CHPL_HOME/modules/internal/ArrayViewRankChange.chpl
+fname: 47 $CHPL_HOME/modules/internal/ArrayViewReindex.chpl
+fname: 48 $CHPL_HOME/modules/internal/LocaleModelHelpSetup.chpl
+fname: 49 $CHPL_HOME/modules/internal/LocaleModelHelpRuntime.chpl
+fname: 50 $CHPL_HOME/modules/internal/ChapelNumLocales.chpl
+fname: 51 chplvis1.chpl
+fname: 52 $CHPL_HOME/modules/packages/VisualDebug.chpl
+fname: 53 $CHPL_HOME/modules/standard/Assert.chpl
+fname: 54 $CHPL_HOME/modules/standard/Types.chpl
+fname: 55 $CHPL_HOME/modules/standard/Math.chpl
+fname: 56 $CHPL_HOME/modules/standard/CommDiagnostics.chpl
+fname: 57 $CHPL_HOME/modules/standard/gen/linux64-gnu/SysCTypes.chpl
+fname: 58 $CHPL_HOME/modules/dists/DSIUtil.chpl
+fname: 59 $CHPL_HOME/modules/packages/Sort.chpl
+fname: 60 $CHPL_HOME/modules/standard/Reflection.chpl
+fname: 61 $CHPL_HOME/modules/standard/List.chpl
+fname: 62 $CHPL_HOME/modules/standard/SysBasic.chpl
+fname: 63 $CHPL_HOME/modules/standard/IO.chpl
+fname: 64 $CHPL_HOME/modules/packages/RangeChunk.chpl
+fname: 65 $CHPL_HOME/modules/packages/Search.chpl
+fname: 66 $CHPL_HOME/modules/standard/Sys.chpl
+fname: 67 $CHPL_HOME/modules/standard/SysError.chpl
+fname: 68 $CHPL_HOME/modules/standard/Regexp.chpl
+FIDNsize: 64
+FIDname: 0 384 12 _local_wrapon_fn
+FIDname: 1 384 12 wrapon_fn
+FIDname: 2 392 12 _local_wrapon_fn2
+FIDname: 3 392 12 wrapon_fn2
+FIDname: 4 402 12 wrapon_fn3
+FIDname: 5 1175 12 wrapon_fn4
+FIDname: 6 1183 12 wrapon_fn5
+FIDname: 7 1238 12 wrapon_fn6
+FIDname: 8 1258 12 wrapon_fn7
+FIDname: 9 1338 12 wrapon_fn8
+FIDname: 10 870 28 wrapon_fn9
+FIDname: 11 1013 28 wrapon_fn10
+FIDname: 12 1954 28 wrapon_fn11
+FIDname: 13 1954 28 wrapon_fn12
+FIDname: 14 3207 28 wrapon_fn13
+FIDname: 15 3211 28 wrapon_fn14
+FIDname: 16 719 2 wrapcoforall_fn
+FIDname: 17 719 2 wrapcoforall_fn2
+FIDname: 18 875 2 wrapon_fn15
+FIDname: 19 875 2 wrapon_fn16
+FIDname: 20 1206 2 _local_wrapon_fn3
+FIDname: 21 1206 2 _local_wrapon_fn4
+FIDname: 22 1206 2 wrapon_fn17
+FIDname: 23 1206 2 wrapon_fn18
+FIDname: 24 1206 2 wrapon_fn19
+FIDname: 25 1206 2 wrapon_fn20
+FIDname: 26 1206 2 wrapon_fn21
+FIDname: 27 1206 2 wrapon_fn22
+FIDname: 28 1206 2 wrapon_fn23
+FIDname: 29 1206 2 wrapon_fn24
+FIDname: 30 1206 2 wrapon_fn25
+FIDname: 31 1206 2 wrapon_fn26
+FIDname: 32 48 29 wrapon_fn27
+FIDname: 33 75 29 wrapon_fn28
+FIDname: 34 204 29 wrapon_fn29
+FIDname: 35 236 29 wrapon_fn30
+FIDname: 36 254 29 wrapon_fn31
+FIDname: 37 1786 26 wrapon_fn32
+FIDname: 38 1786 26 wrapon_fn33
+FIDname: 39 68 48 wrapon_fn34
+FIDname: 40 46 31 wrapon_fn35
+FIDname: 41 195 8 wrapon_fn36
+FIDname: 42 1344 8 wrapon_fn37
+FIDname: 43 1560 8 wrapon_fn38
+FIDname: 44 2071 63 wrapon_fn_chpl
+FIDname: 45 2101 63 wrapon_fn_chpl2
+FIDname: 46 2199 63 wrapon_fn_chpl3
+FIDname: 47 2693 63 wrapon_fn_chpl4
+FIDname: 48 2693 63 wrapon_fn_chpl5
+FIDname: 49 2697 63 wrapon_fn_chpl6
+FIDname: 50 2697 63 wrapon_fn_chpl7
+FIDname: 51 2707 63 wrapon_fn_chpl8
+FIDname: 52 2707 63 wrapon_fn_chpl9
+FIDname: 53 2721 63 wrapon_fn_chpl10
+FIDname: 54 2721 63 wrapon_fn_chpl11
+FIDname: 55 2841 63 wrapon_fn_chpl12
+FIDname: 56 2884 63 wrapon_fn_chpl13
+FIDname: 57 2904 63 wrapon_fn_chpl14
+FIDname: 58 3254 63 wrapon_fn_chpl15
+FIDname: 59 3354 63 wrapon_fn_chpl16
+FIDname: 60 4561 63 wrapon_fn_chpl17
+FIDname: 61 98 52 wrapcoforall_fn_chpl
+FIDname: 62 100 52 wrapon_fn_chpl18
+FIDname: 63 21 51 wrapon_fn_chpl19
+task: 1496252137.846702 0 2 1 O 21 51 63
+fork_nb: 1496252137.846711 0 1 -2 63 0x7f1b1f800e00 80 1
+fork_nb: 1496252137.846729 0 2 -2 63 0x7f1b1f800e00 80 1
+fork_nb: 1496252137.846741 0 3 -2 63 0x7f1b1f800e00 80 1
+Btask: 1496252137.847217 0 2
+Etask: 1496252137.847750 0 2
+task: 1496252137.847872 0 3 4 O 0 -5 60
+task: 1496252137.848634 0 5 4 O 0 -5 60
+task: 1496252137.848651 0 6 4 O 0 -5 60
+Btask: 1496252137.848787 0 5
+Btask: 1496252137.848788 0 6
+Btask: 1496252137.848786 0 3
+get: 1496252137.849252 0 3 5 0x7f1b058007b0 0x7fbebf800968 1 -1 8 4564 63
+get: 1496252137.849457 0 3 5 0x7f1b05800940 0x7fbebf800b10 1 -1 16 4565 63
+get: 1496252137.849605 0 3 5 0x7f1b0580055c 0x7fbebf800f0c 1 -1 4 3464 63
+get: 1496252137.849730 0 3 5 0x7f1b05800388 0x7fbebf800f0c 1 -1 4 1341 8
+get: 1496252137.849850 0 3 5 0x7f1b058003a0 0x7fbebf800ef0 1 -1 8 1341 8
+get: 1496252137.849932 0 3 5 0x7f1b05800398 0x7fbebf800f0c 1 -1 4 1341 8
+get: 1496252137.850018 0 3 5 0x7f1b058003b0 0x7fbebf800f00 1 -1 8 1341 8
+get: 1496252137.850147 0 3 5 0x7f1b5180f000 0x7fbf10810020 1 -1 20 21 51
+put: 1496252137.850278 0 3 5 0x7f1b058007b8 0x7fbebf800968 1 -1 8 4565 63
+get: 1496252137.850404 0 3 5 0x7f1b058007c0 0x7fbebf800968 1 -1 8 4564 63
+put: 1496252137.850536 0 3 5 0x7f1b058007c8 0x7fbebf800968 1 -1 8 4565 63
+get: 1496252137.850643 0 2 6 0x7f1b0a8007b0 0x7f274e800968 1 -1 8 4564 63
+Etask: 1496252137.850648 0 5
+get: 1496252137.850887 0 2 6 0x7f1b0a800940 0x7f274e800b10 1 -1 16 4565 63
+get: 1496252137.851052 0 2 6 0x7f1b0a80055c 0x7f274e800f0c 1 -1 4 3464 63
+get: 1496252137.851260 0 2 6 0x7f1b0a800388 0x7f274e800f0c 1 -1 4 1341 8
+get: 1496252137.851448 0 2 6 0x7f1b0a8003a0 0x7f274e800ef0 1 -1 8 1341 8
+get: 1496252137.851609 0 2 6 0x7f1b0a800398 0x7f274e800f0c 1 -1 4 1341 8
+get: 1496252137.851751 0 2 6 0x7f1b0a8003b0 0x7f274e800f00 1 -1 8 1341 8
+get: 1496252137.851944 0 2 6 0x7f1b5160f000 0x7f2798410020 1 -1 20 21 51
+put: 1496252137.852121 0 2 6 0x7f1b0a8007b8 0x7f274e800968 1 -1 8 4565 63
+get: 1496252137.852274 0 2 6 0x7f1b0a8007c0 0x7f274e800968 1 -1 8 4564 63
+put: 1496252137.852456 0 2 6 0x7f1b0a8007c8 0x7f274e800968 1 -1 8 4565 63
+get: 1496252137.852638 0 1 3 0x7f1b0f8007b0 0x7f51e9800968 1 -1 8 4564 63
+Etask: 1496252137.852644 0 6
+get: 1496252137.852757 0 1 3 0x7f1b0f800940 0x7f51e9800b10 1 -1 16 4565 63
+get: 1496252137.852874 0 1 3 0x7f1b0f80055c 0x7f51e9800f0c 1 -1 4 3464 63
+get: 1496252137.852964 0 1 3 0x7f1b0f800388 0x7f51e9800f0c 1 -1 4 1341 8
+get: 1496252137.853087 0 1 3 0x7f1b0f8003a0 0x7f51e9800ef0 1 -1 8 1341 8
+get: 1496252137.853160 0 1 3 0x7f1b0f800398 0x7f51e9800f0c 1 -1 4 1341 8
+get: 1496252137.853282 0 1 3 0x7f1b0f8003b0 0x7f51e9800f00 1 -1 8 1341 8
+get: 1496252137.853401 0 1 3 0x7f1b51a0f000 0x7f5234a10020 1 -1 20 21 51
+put: 1496252137.853521 0 1 3 0x7f1b0f8007b8 0x7f51e9800968 1 -1 8 4565 63
+get: 1496252137.853638 0 1 3 0x7f1b0f8007c0 0x7f51e9800968 1 -1 8 4564 63
+put: 1496252137.853762 0 1 3 0x7f1b0f8007c8 0x7f51e9800968 1 -1 8 4565 63
+Etask: 1496252137.853881 0 3
+VdbMark: 1496252137.854039 0 1
+task: 1496252137.854050 0 7 1 L 98 52 61
+task: 1496252137.854057 0 8 1 L 98 52 61
+task: 1496252137.854063 0 9 1 L 98 52 61
+task: 1496252137.854069 0 10 1 L 98 52 61
+Btask: 1496252137.854798 0 7
+Etask: 1496252137.855292 0 7
+Btask: 1496252137.856023 0 9
+Btask: 1496252137.855974 0 8
+fork: 1496252137.856474 0 2 -2 62 0x7f1aec800dd0 168 9 
+Btask: 1496252137.855972 0 10
+Etask: 1496252137.856485 0 8
+fork: 1496252137.856495 0 1 -2 62 0x7f1af6800dd0 168 10 
+Etask: 1496252137.858549 0 10
+Etask: 1496252137.870309 0 9
+End: 1496252137.870313 0.292000 0.116000 0 1
