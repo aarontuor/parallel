@@ -2,6 +2,7 @@
 
 use Random;
 use BlockDist;
+use VisualDebug;
 
 config var n: int = 2**3;
 config var dir: int = 1;
@@ -19,13 +20,17 @@ proc bitonic_merge(arr: [],
                    ascending: bool){
     if count > 1{
         const k = count/2;
-        for i in low..low+k-1{
+        forall i in low..low+k-1{
             if ascending != arr[i] <= arr[i + k]{
                 arr[i] <=> arr[i + k];
             }
         }
-        bitonic_merge(arr, low, k, ascending);
-        bitonic_merge(arr, low + k, k, ascending);
+        //begin on arr(low) do {
+            bitonic_merge(arr, low, k, ascending);
+        //}
+        //begin on arr(low+k) do {
+            bitonic_merge(arr, low + k, k, ascending);
+        //}
     }
     return;
 }
@@ -44,9 +49,11 @@ proc bitonic_sort(arr: [],
 
 }
 
+startVdebug("BITONIC");
 bitonic_sort(A, 1, n, ascending);
+stopVdebug();
 writeln(A);
-for i in 2..n do
+forall i in 2..n do
   if A(i) < A(i-1) then
     halt("A(", i-1, ") == ", A(i-1), " > A(", i, ") == ", A(i));
 
