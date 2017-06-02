@@ -15,6 +15,7 @@ var A: [D] real;
 fillRandom(A);
 writeln(A);
 
+
 proc bitonic_merge(arr: [],
                    low: int,
                    count: int,
