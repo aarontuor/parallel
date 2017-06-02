@@ -41,8 +41,12 @@ proc bitonic_sort(arr: [],
                   ascending: bool){
     if count > 1 {
         const k = count/2;
-        bitonic_sort(arr, low, k, true);
-        bitonic_sort(arr, low + k, k, false);
+        cobegin {
+            on arr(low) do
+                bitonic_sort(arr, low, k, true);
+            on arr(low + k) do
+                bitonic_sort(arr, low + k, k, false);
+        }
         bitonic_merge(arr, low, count, ascending);
     }
     return;
