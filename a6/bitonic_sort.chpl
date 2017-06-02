@@ -4,7 +4,8 @@ use Random;
 use BlockDist;
 use VisualDebug;
 
-config var n: int = 2**3;
+config var num: int = 3;
+var n: int = 2**num;
 config var dir: int = 1;
 var ascending: bool = if dir == 0 then false else true;
 const space = {1..n};
