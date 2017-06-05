@@ -1,0 +1,200 @@
+ChplVdebug: ver 1.2 nodes 16 nid 0 tid 1 seq 55076425295.000 1496269076.467962 0.480000 0.292000 
+CHPL_HOME: /cluster/home/phil/chapel
+DIR: /cluster/home/tuora/a6/examples
+Tablesize: 78
+fname: 0 <unknown>
+fname: 1 <internal>
+fname: 2 $CHPL_HOME/modules/internal/ChapelBase.chpl
+fname: 3 $CHPL_HOME/modules/internal/ChapelStandard.chpl
+fname: 4 $CHPL_HOME/modules/internal/PrintModuleInitOrder.chpl
+fname: 5 $CHPL_HOME/modules/internal/startInitCommDiags.chpl
+fname: 6 $CHPL_HOME/modules/internal/CPtr.chpl
+fname: 7 $CHPL_HOME/modules/internal/CString.chpl
+fname: 8 $CHPL_HOME/modules/internal/String.chpl
+fname: 9 $CHPL_HOME/modules/internal/ChapelDebugPrint.chpl
+fname: 10 $CHPL_HOME/modules/internal/ChapelEnv.chpl
+fname: 11 $CHPL_HOME/modules/internal/MemConsistency.chpl
+fname: 12 $CHPL_HOME/modules/internal/Atomics.chpl
+fname: 13 $CHPL_HOME/modules/internal/NetworkAtomics.chpl
+fname: 14 $CHPL_HOME/modules/internal/NetworkAtomicTypes.chpl
+fname: 15 $CHPL_HOME/modules/internal/AtomicsCommon.chpl
+fname: 16 $CHPL_HOME/modules/internal/ChapelIteratorSupport.chpl
+fname: 17 $CHPL_HOME/modules/internal/ChapelThreads.chpl
+fname: 18 $CHPL_HOME/modules/internal/ChapelThreadsInternal.chpl
+fname: 19 $CHPL_HOME/modules/internal/ChapelTasksInternal.chpl
+fname: 20 $CHPL_HOME/modules/internal/ChapelTuple.chpl
+fname: 21 $CHPL_HOME/modules/internal/ChapelRange.chpl
+fname: 22 $CHPL_HOME/modules/internal/ChapelReduce.chpl
+fname: 23 $CHPL_HOME/modules/internal/ChapelSyncvar.chpl
+fname: 24 $CHPL_HOME/modules/internal/localeModels/flat/LocaleModel.chpl
+fname: 25 $CHPL_HOME/modules/internal/ChapelLocale.chpl
+fname: 26 $CHPL_HOME/modules/internal/DefaultRectangular.chpl
+fname: 27 $CHPL_HOME/modules/internal/LocalesArray.chpl
+fname: 28 $CHPL_HOME/modules/internal/ChapelArray.chpl
+fname: 29 $CHPL_HOME/modules/internal/ChapelDistribution.chpl
+fname: 30 $CHPL_HOME/modules/internal/ChapelIO.chpl
+fname: 31 $CHPL_HOME/modules/internal/LocaleTree.chpl
+fname: 32 $CHPL_HOME/modules/internal/DefaultAssociative.chpl
+fname: 33 $CHPL_HOME/modules/internal/DefaultSparse.chpl
+fname: 34 $CHPL_HOME/modules/internal/DefaultOpaque.chpl
+fname: 35 $CHPL_HOME/modules/internal/ChapelTaskID.chpl
+fname: 36 $CHPL_HOME/modules/internal/tasktable/off/ChapelTaskTable.chpl
+fname: 37 $CHPL_HOME/modules/internal/MemTracking.chpl
+fname: 38 $CHPL_HOME/modules/internal/ChapelUtil.chpl
+fname: 39 $CHPL_HOME/modules/internal/ChapelError.chpl
+fname: 40 $CHPL_HOME/modules/internal/ChapelDynDispHack.chpl
+fname: 41 $CHPL_HOME/modules/internal/stopInitCommDiags.chpl
+fname: 42 $CHPL_HOME/modules/internal/StringCasts.chpl
+fname: 43 $CHPL_HOME/modules/internal/LocaleModelHelpFlat.chpl
+fname: 44 $CHPL_HOME/modules/internal/LocaleModelHelpMem.chpl
+fname: 45 $CHPL_HOME/modules/internal/ArrayViewSlice.chpl
+fname: 46 $CHPL_HOME/modules/internal/ArrayViewRankChange.chpl
+fname: 47 $CHPL_HOME/modules/internal/ArrayViewReindex.chpl
+fname: 48 $CHPL_HOME/modules/internal/LocaleModelHelpSetup.chpl
+fname: 49 $CHPL_HOME/modules/internal/LocaleModelHelpRuntime.chpl
+fname: 50 $CHPL_HOME/modules/internal/ChapelNumLocales.chpl
+fname: 51 quicksort_tuora.chpl
+fname: 52 $CHPL_HOME/modules/standard/Random.chpl
+fname: 53 $CHPL_HOME/modules/standard/Time.chpl
+fname: 54 $CHPL_HOME/modules/packages/VisualDebug.chpl
+fname: 55 $CHPL_HOME/modules/dists/BlockDist.chpl
+fname: 56 $CHPL_HOME/modules/dists/DSIUtil.chpl
+fname: 57 $CHPL_HOME/modules/standard/CommDiagnostics.chpl
+fname: 58 $CHPL_HOME/modules/dists/SparseBlockDist.chpl
+fname: 59 $CHPL_HOME/modules/layouts/LayoutCSR.chpl
+fname: 60 $CHPL_HOME/modules/packages/Sort.chpl
+fname: 61 $CHPL_HOME/modules/packages/Search.chpl
+fname: 62 $CHPL_HOME/modules/packages/RangeChunk.chpl
+fname: 63 $CHPL_HOME/modules/standard/Reflection.chpl
+fname: 64 $CHPL_HOME/modules/standard/Assert.chpl
+fname: 65 $CHPL_HOME/modules/standard/Types.chpl
+fname: 66 $CHPL_HOME/modules/standard/Math.chpl
+fname: 67 $CHPL_HOME/modules/standard/gen/linux64-gnu/SysCTypes.chpl
+fname: 68 $CHPL_HOME/modules/standard/List.chpl
+fname: 69 $CHPL_HOME/modules/standard/SysBasic.chpl
+fname: 70 $CHPL_HOME/modules/standard/IO.chpl
+fname: 71 $CHPL_HOME/modules/standard/Sys.chpl
+fname: 72 $CHPL_HOME/modules/standard/SysError.chpl
+fname: 73 $CHPL_HOME/modules/standard/Regexp.chpl
+fname: 74 <command_line>
+fname: 75 <command_line>
+fname: 76 <command_line>
+fname: 77 <command_line>
+FIDNsize: 87
+FIDname: 0 384 12 _local_wrapon_fn
+FIDname: 1 384 12 wrapon_fn
+FIDname: 2 392 12 _local_wrapon_fn2
+FIDname: 3 392 12 wrapon_fn2
+FIDname: 4 402 12 wrapon_fn3
+FIDname: 5 1175 12 wrapon_fn4
+FIDname: 6 1183 12 wrapon_fn5
+FIDname: 7 1238 12 wrapon_fn6
+FIDname: 8 1258 12 wrapon_fn7
+FIDname: 9 1338 12 wrapon_fn8
+FIDname: 10 870 28 wrapon_fn9
+FIDname: 11 1013 28 wrapon_fn10
+FIDname: 12 1954 28 wrapon_fn11
+FIDname: 13 1954 28 wrapon_fn12
+FIDname: 14 1954 28 wrapon_fn13
+FIDname: 15 1954 28 wrapon_fn14
+FIDname: 16 3207 28 wrapon_fn15
+FIDname: 17 3211 28 wrapon_fn16
+FIDname: 18 719 2 wrapcoforall_fn
+FIDname: 19 719 2 wrapcoforall_fn2
+FIDname: 20 719 2 wrapcoforall_fn3
+FIDname: 21 719 2 wrapcoforall_fn4
+FIDname: 22 875 2 wrapon_fn17
+FIDname: 23 875 2 wrapon_fn18
+FIDname: 24 1206 2 _local_wrapon_fn3
+FIDname: 25 1206 2 _local_wrapon_fn4
+FIDname: 26 1206 2 wrapon_fn19
+FIDname: 27 1206 2 wrapon_fn20
+FIDname: 28 1206 2 wrapon_fn21
+FIDname: 29 1206 2 wrapon_fn22
+FIDname: 30 1206 2 wrapon_fn23
+FIDname: 31 1206 2 wrapon_fn24
+FIDname: 32 1206 2 wrapon_fn25
+FIDname: 33 1206 2 wrapon_fn26
+FIDname: 34 1206 2 wrapon_fn27
+FIDname: 35 1206 2 wrapon_fn28
+FIDname: 36 1206 2 wrapon_fn29
+FIDname: 37 1206 2 wrapon_fn30
+FIDname: 38 1206 2 wrapon_fn31
+FIDname: 39 1206 2 wrapon_fn32
+FIDname: 40 1206 2 wrapon_fn33
+FIDname: 41 48 29 wrapon_fn34
+FIDname: 42 75 29 wrapon_fn35
+FIDname: 43 204 29 wrapon_fn36
+FIDname: 44 236 29 wrapon_fn37
+FIDname: 45 254 29 wrapon_fn38
+FIDname: 46 254 29 wrapon_fn39
+FIDname: 47 1786 26 wrapon_fn40
+FIDname: 48 1786 26 wrapon_fn41
+FIDname: 49 1786 26 wrapon_fn42
+FIDname: 50 1786 26 wrapon_fn43
+FIDname: 51 68 48 wrapon_fn44
+FIDname: 52 46 31 wrapon_fn45
+FIDname: 53 195 8 wrapon_fn46
+FIDname: 54 1344 8 wrapon_fn47
+FIDname: 55 1560 8 wrapon_fn48
+FIDname: 56 2071 70 wrapon_fn_chpl
+FIDname: 57 2101 70 wrapon_fn_chpl2
+FIDname: 58 2199 70 wrapon_fn_chpl3
+FIDname: 59 2693 70 wrapon_fn_chpl4
+FIDname: 60 2693 70 wrapon_fn_chpl5
+FIDname: 61 2697 70 wrapon_fn_chpl6
+FIDname: 62 2697 70 wrapon_fn_chpl7
+FIDname: 63 2707 70 wrapon_fn_chpl8
+FIDname: 64 2707 70 wrapon_fn_chpl9
+FIDname: 65 2721 70 wrapon_fn_chpl10
+FIDname: 66 2721 70 wrapon_fn_chpl11
+FIDname: 67 2721 70 wrapon_fn_chpl12
+FIDname: 68 2841 70 wrapon_fn_chpl13
+FIDname: 69 2841 70 wrapon_fn_chpl14
+FIDname: 70 2884 70 wrapon_fn_chpl15
+FIDname: 71 2904 70 wrapon_fn_chpl16
+FIDname: 72 3254 70 wrapon_fn_chpl17
+FIDname: 73 3354 70 wrapon_fn_chpl18
+FIDname: 74 3772 70 wrapon_fn_chpl19
+FIDname: 75 3772 70 wrapon_fn_chpl20
+FIDname: 76 3884 70 wrapon_fn_chpl21
+FIDname: 77 3894 70 wrapon_fn_chpl22
+FIDname: 78 3943 70 wrapon_fn_chpl23
+FIDname: 79 4561 70 wrapon_fn_chpl24
+FIDname: 80 4561 70 wrapon_fn_chpl25
+FIDname: 81 4561 70 wrapon_fn_chpl26
+FIDname: 82 733 52 wrapcoforall_fn_chpl
+FIDname: 83 98 54 wrapcoforall_fn_chpl2
+FIDname: 84 100 54 wrapon_fn_chpl27
+FIDname: 85 92 51 wrapcobegin_fn_chpl
+FIDname: 86 93 51 wrapcobegin_fn_chpl2
+task: 1496269076.475625 0 2 1 L 92 51 85
+task: 1496269076.475637 0 3 1 L 93 51 86
+Btask: 1496269076.475690 0 2
+Btask: 1496269076.475698 0 3
+Etask: 1496269076.537863 0 3
+Etask: 1496269076.550720 0 2
+VdbMark: 1496269076.550734 0 1
+task: 1496269076.550756 0 4 1 L 98 54 83
+task: 1496269076.550766 0 5 1 L 98 54 83
+task: 1496269076.550772 0 6 1 L 98 54 83
+task: 1496269076.550778 0 7 1 L 98 54 83
+task: 1496269076.550782 0 8 1 L 98 54 83
+task: 1496269076.550788 0 9 1 L 98 54 83
+Btask: 1496269076.550810 0 6
+fork: 1496269076.550827 0 8 -2 84 0x7f4a27800dd0 168 6 
+Btask: 1496269076.550832 0 7
+fork: 1496269076.550839 0 4 -2 84 0x7f4a60003dd0 168 7 
+Btask: 1496269076.550949 0 9
+Btask: 1496269076.550951 0 8
+Btask: 1496269076.550952 0 5
+fork: 1496269076.550974 0 1 -2 84 0x7f4a31800dd0 168 9 
+Etask: 1496269076.551001 0 5
+fork: 1496269076.550993 0 2 -2 84 0x7f4a5b003dd0 168 8 
+Btask: 1496269076.551001 0 4
+Etask: 1496269076.551019 0 4
+Etask: 1496269076.553436 0 9
+Etask: 1496269076.555459 0 8
+Etask: 1496269076.557913 0 7
+Etask: 1496269076.571355 0 6
+End: 1496269076.571360 0.792000 0.364000 0 1
